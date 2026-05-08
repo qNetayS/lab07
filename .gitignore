@@ -1,0 +1,10 @@
+_build/
+build/
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.a
+*.so
+*.exe
+*.out
+.hunter/

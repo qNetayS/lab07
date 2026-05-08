@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/check.dir/link.d CMakeFiles/check.dir/tests/test_account.cpp.o CMakeFiles/check.dir/tests/test_transaction.cpp.o -o check  banking/libbanking.a lib/libgtest_main.a lib/libgtest.a
