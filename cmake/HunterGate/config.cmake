@@ -1,0 +1,3 @@
+# Отключаем -Werror для GTest
+set(GTEST_COMPILE_FLAGS "-w" CACHE STRING "" FORCE)
+set(GMOCK_COMPILE_FLAGS "-w" CACHE STRING "" FORCE)
